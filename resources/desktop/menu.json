@@ -1,0 +1,34 @@
+[
+  { "text": "Home", "iconCls": "x-fa fa-home", "xtype": "homeview", "leaf": true },
+  { "text": "1-Buffered Renderer", "xtype": "BufferedRendererView", "iconCls": "fa fa-table", "leaf": true },
+  { "text": "2-Column Locking", "xtype": "ColumnLockingView", "itemId": "template", "iconCls": "fa fa-table", "leaf": true },
+  { "text": "3-Column Renderers", "xtype": "ColumnRenderersView", "itemId": "template", "iconCls": "fa fa-table", "leaf": true },
+  { "text": "4-Column Widgets", "xtype": "ColumnWidgetsView", "itemId": "widgetGrid", "iconCls": "fa fa-table", "leaf": true },
+  { "text": "5-Data Exporter", "xtype": "DataExporterView", "itemId": "template", "iconCls": "fa fa-table", "leaf": true },
+  { "text": "6-Drag and Drop", "xtype": "DragAndDropView", "itemId": "template", "iconCls": "fa fa-table", "leaf": true },
+  { "text": "7-Row Editing", "xtype": "RowEditingView", "itemId": "template", "iconCls": "fa fa-table", "leaf": true },
+  { "text": "8-Row Expander", "xtype": "RowExpanderView", "itemId": "template", "iconCls": "fa fa-table", "leaf": true },
+  { "text": "9-Sorting and Filtering", "xtype": "SortingAndFilteringView", "itemId": "template", "iconCls": "fa fa-table", "leaf": true },
+  { "text": "10-Spreadsheet Features", "xtype": "SpreadsheetFeaturesView", "itemId": "spreadsheet", "iconCls": "fa fa-table", "leaf": true },
+  {
+    "id": 2,
+    "text": "More",
+    "iconCls": "x-fa fa-home",
+    "children": [
+      { "text": "Personnel", "iconCls": "x-fa fa-table", "xtype": "personnelview", "leaf": true },
+      { "text": "Pivot Salesperson Sales", "xtype": "Grids.view.pivot.PivotView", "leaf": true, "iconCls": "fa fa-calculator", "itemId": "pivot" },
+      { "text": "Remote Pivot", "xtype": "Grids.view.pivot.RemotePivotView", "leaf": true, "iconCls": "fa fa-calculator", "itemId": "remotepivot" },
+      { "text": "Chart Integration", "xtype": "Grids.view.pivot.ChartIntegrationView", "leaf": true, "iconCls": "fa fa-chart-bar", "itemId": "chartIntegration" },
+      { "text": "Country Sales Grid", "xtype": "CountrySalesGridView", "leaf": true, "iconCls": "fa fa-dollar-sign", "itemId": "countrySalesGrid" },
+      { "text": "Country Sales Pivot", "xtype": "Grids.view.pivot.CountrySalesPivotView", "leaf": true, "iconCls": "fa fa-robot", "itemId": "countrySalesPivot" },
+      { "text": "Pivot Appearance/Drilldown", "xtype": "Grids.view.pivot.PivotAppearanceView", "leaf": true, "iconCls": "fa fa-camera-retro", "itemId": "pivotAppearance" },
+      { "text": "Configurator/Exporter", "xtype": "Grids.view.pivot.PivotConfiguratorView", "leaf": true, "iconCls": "fa fa-pencil-alt", "itemId": "pivotConfiguratorView" },
+      { "text": "Virtual", "xtype": "VirtualView", "leaf": true, "iconCls": "fa fa-fast-forward", "itemId":"virtual" },
+      { "text": "Salesperson Sales Grid", "xtype": "SalespersonSalesView", "leaf": true, "iconCls": "fa fa-dollar-sign", "itemId": "salespersonSales" },
+      { "text": "Basic Grid", "xtype": "BasicGridView", "leaf": true, "iconCls": "fa fa-table", "itemId": "basicGrid" },
+      { "text": "Buffered Rendering", "xtype": "BufferedRenderingView", "leaf": true, "iconCls": "fa fa-list", "itemId": "bufferedRendering" },
+      { "text": "Buffered Store", "xtype": "ForumThreadView", "leaf": true, "iconCls": "fa fa-table", "itemId": "gridForumThreadView" },
+      { "text": "Basic Tabs", "xtype": "BasicTabsView", "leaf": true, "iconCls": "fa fa-table", "itemId": "basicTabs" }
+    ]
+  }
+]

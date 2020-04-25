@@ -1,0 +1,16 @@
+{
+  "leaf": false,
+  "children": [
+    { "text": "Home", "iconCls": "x-fa fa-home", "xtype": "homeview", "leaf": true },
+    { "text": "Personnel", "iconCls": "x-fa fa-table", "xtype": "personnelview", "leaf": true },
+
+    { "text": "1-Buffered Renderer and Store", "xtype": "BufferedRenderingView", "itemId":"buffered", "iconCls": "fa fa-table", "leaf": true },
+
+
+
+
+
+
+
+  ]
+}

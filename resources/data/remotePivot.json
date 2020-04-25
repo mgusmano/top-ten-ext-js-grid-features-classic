@@ -1,0 +1,841 @@
+{
+    "success": true,
+    "leftAxis": [{
+        "key": -1276511163,
+        "value": "Macromedia",
+        "name": "Macromedia",
+        "dimensionId": "leftAxis1"
+    }, {
+        "key": 288753104,
+        "value": "Lavasoft",
+        "name": "Lavasoft",
+        "dimensionId": "leftAxis1"
+    }, {
+        "key": 435773751,
+        "value": "Sibelius",
+        "name": "Sibelius",
+        "dimensionId": "leftAxis1"
+    }, {
+        "key": 1655763047,
+        "value": "Google",
+        "name": "Google",
+        "dimensionId": "leftAxis1"
+    }, {
+        "key": -1700934219,
+        "value": "Finale",
+        "name": "Finale",
+        "dimensionId": "leftAxis1"
+    }, {
+        "key": -1966381207,
+        "value": "Chami",
+        "name": "Chami",
+        "dimensionId": "leftAxis1"
+    }, {
+        "key": 1047393887,
+        "value": "Adobe",
+        "name": "Adobe",
+        "dimensionId": "leftAxis1"
+    }, {
+        "key": -1083659477,
+        "value": "Microsoft",
+        "name": "Microsoft",
+        "dimensionId": "leftAxis1"
+    }, {
+        "key": 1892024283,
+        "value": "Cakewalk",
+        "name": "Cakewalk",
+        "dimensionId": "leftAxis1"
+    }, {
+        "key": 152525816,
+        "value": "Yahoo",
+        "name": "Yahoo",
+        "dimensionId": "leftAxis1"
+    }, {
+        "key": -1123237942,
+        "value": "Borland",
+        "name": "Borland",
+        "dimensionId": "leftAxis1"
+    }, {
+        "key": 1690699786,
+        "value": "Altavista",
+        "name": "Altavista",
+        "dimensionId": "leftAxis1"
+    }, {
+        "key": -1574788680,
+        "value": "Apple Systems",
+        "name": "Apple Systems",
+        "dimensionId": "leftAxis1"
+    }, {
+        "key": 753831892,
+        "value": "Lycos",
+        "name": "Lycos",
+        "dimensionId": "leftAxis1"
+    }],
+    "topAxis": [{
+        "key": 1236044242,
+        "value": "Australia",
+        "name": "Australia",
+        "dimensionId": "topAxis1"
+    }, {
+        "key": -893447992,
+        "value": "Belgium",
+        "name": "Belgium",
+        "dimensionId": "topAxis1"
+    }, {
+        "key": 898914774,
+        "value": "Canada",
+        "name": "Canada",
+        "dimensionId": "topAxis1"
+    }, {
+        "key": -1126250421,
+        "value": "Netherlands",
+        "name": "Netherlands",
+        "dimensionId": "topAxis1"
+    }, {
+        "key": -980586483,
+        "value": "United Kingdom",
+        "name": "United Kingdom",
+        "dimensionId": "topAxis1"
+    }, {
+        "key": 80572487,
+        "value": "United States",
+        "name": "United States",
+        "dimensionId": "topAxis1"
+    }],
+    "results": [{
+        "leftKey": "grandtotal",
+        "topKey": "grandtotal",
+        "values": {
+            "agg1": "10211986",
+            "agg2": "2000"
+        }
+    }, {
+        "leftKey": -1276511163,
+        "topKey": "grandtotal",
+        "values": {
+            "agg1": "682717",
+            "agg2": "130"
+        }
+    }, {
+        "leftKey": -1276511163,
+        "topKey": 1236044242,
+        "values": {
+            "agg1": "118515",
+            "agg2": "20"
+        }
+    }, {
+        "leftKey": -1276511163,
+        "topKey": -893447992,
+        "values": {
+            "agg1": "134426",
+            "agg2": "25"
+        }
+    }, {
+        "leftKey": -1276511163,
+        "topKey": 898914774,
+        "values": {
+            "agg1": "105729",
+            "agg2": "22"
+        }
+    }, {
+        "leftKey": -1276511163,
+        "topKey": -1126250421,
+        "values": {
+            "agg1": "122815",
+            "agg2": "24"
+        }
+    }, {
+        "leftKey": -1276511163,
+        "topKey": -980586483,
+        "values": {
+            "agg1": "87687",
+            "agg2": "17"
+        }
+    }, {
+        "leftKey": -1276511163,
+        "topKey": 80572487,
+        "values": {
+            "agg1": "113545",
+            "agg2": "22"
+        }
+    }, {
+        "leftKey": 288753104,
+        "topKey": "grandtotal",
+        "values": {
+            "agg1": "635319",
+            "agg2": "129"
+        }
+    }, {
+        "leftKey": 288753104,
+        "topKey": 1236044242,
+        "values": {
+            "agg1": "115094",
+            "agg2": "23"
+        }
+    }, {
+        "leftKey": 288753104,
+        "topKey": -893447992,
+        "values": {
+            "agg1": "118448",
+            "agg2": "23"
+        }
+    }, {
+        "leftKey": 288753104,
+        "topKey": 898914774,
+        "values": {
+            "agg1": "140282",
+            "agg2": "29"
+        }
+    }, {
+        "leftKey": 288753104,
+        "topKey": -1126250421,
+        "values": {
+            "agg1": "63645",
+            "agg2": "16"
+        }
+    }, {
+        "leftKey": 288753104,
+        "topKey": -980586483,
+        "values": {
+            "agg1": "88791",
+            "agg2": "17"
+        }
+    }, {
+        "leftKey": 288753104,
+        "topKey": 80572487,
+        "values": {
+            "agg1": "109059",
+            "agg2": "21"
+        }
+    }, {
+        "leftKey": 435773751,
+        "topKey": "grandtotal",
+        "values": {
+            "agg1": "619251",
+            "agg2": "130"
+        }
+    }, {
+        "leftKey": 435773751,
+        "topKey": 1236044242,
+        "values": {
+            "agg1": "109046",
+            "agg2": "27"
+        }
+    }, {
+        "leftKey": 435773751,
+        "topKey": -893447992,
+        "values": {
+            "agg1": "101637",
+            "agg2": "20"
+        }
+    }, {
+        "leftKey": 435773751,
+        "topKey": 898914774,
+        "values": {
+            "agg1": "78436",
+            "agg2": "13"
+        }
+    }, {
+        "leftKey": 435773751,
+        "topKey": -1126250421,
+        "values": {
+            "agg1": "101173",
+            "agg2": "23"
+        }
+    }, {
+        "leftKey": 435773751,
+        "topKey": -980586483,
+        "values": {
+            "agg1": "107134",
+            "agg2": "21"
+        }
+    }, {
+        "leftKey": 435773751,
+        "topKey": 80572487,
+        "values": {
+            "agg1": "121825",
+            "agg2": "26"
+        }
+    }, {
+        "leftKey": 1655763047,
+        "topKey": "grandtotal",
+        "values": {
+            "agg1": "724866",
+            "agg2": "143"
+        }
+    }, {
+        "leftKey": 1655763047,
+        "topKey": 1236044242,
+        "values": {
+            "agg1": "102736",
+            "agg2": "21"
+        }
+    }, {
+        "leftKey": 1655763047,
+        "topKey": -893447992,
+        "values": {
+            "agg1": "111437",
+            "agg2": "21"
+        }
+    }, {
+        "leftKey": 1655763047,
+        "topKey": 898914774,
+        "values": {
+            "agg1": "160986",
+            "agg2": "31"
+        }
+    }, {
+        "leftKey": 1655763047,
+        "topKey": -1126250421,
+        "values": {
+            "agg1": "127508",
+            "agg2": "25"
+        }
+    }, {
+        "leftKey": 1655763047,
+        "topKey": -980586483,
+        "values": {
+            "agg1": "117176",
+            "agg2": "23"
+        }
+    }, {
+        "leftKey": 1655763047,
+        "topKey": 80572487,
+        "values": {
+            "agg1": "105023",
+            "agg2": "22"
+        }
+    }, {
+        "leftKey": -1700934219,
+        "topKey": "grandtotal",
+        "values": {
+            "agg1": "740703",
+            "agg2": "148"
+        }
+    }, {
+        "leftKey": -1700934219,
+        "topKey": 1236044242,
+        "values": {
+            "agg1": "95946",
+            "agg2": "24"
+        }
+    }, {
+        "leftKey": -1700934219,
+        "topKey": -893447992,
+        "values": {
+            "agg1": "115447",
+            "agg2": "21"
+        }
+    }, {
+        "leftKey": -1700934219,
+        "topKey": 898914774,
+        "values": {
+            "agg1": "117067",
+            "agg2": "26"
+        }
+    }, {
+        "leftKey": -1700934219,
+        "topKey": -1126250421,
+        "values": {
+            "agg1": "124779",
+            "agg2": "22"
+        }
+    }, {
+        "leftKey": -1700934219,
+        "topKey": -980586483,
+        "values": {
+            "agg1": "140428",
+            "agg2": "28"
+        }
+    }, {
+        "leftKey": -1700934219,
+        "topKey": 80572487,
+        "values": {
+            "agg1": "147036",
+            "agg2": "27"
+        }
+    }, {
+        "leftKey": -1966381207,
+        "topKey": "grandtotal",
+        "values": {
+            "agg1": "810924",
+            "agg2": "157"
+        }
+    }, {
+        "leftKey": -1966381207,
+        "topKey": 1236044242,
+        "values": {
+            "agg1": "131899",
+            "agg2": "24"
+        }
+    }, {
+        "leftKey": -1966381207,
+        "topKey": -893447992,
+        "values": {
+            "agg1": "167536",
+            "agg2": "32"
+        }
+    }, {
+        "leftKey": -1966381207,
+        "topKey": 898914774,
+        "values": {
+            "agg1": "123173",
+            "agg2": "23"
+        }
+    }, {
+        "leftKey": -1966381207,
+        "topKey": -1126250421,
+        "values": {
+            "agg1": "102943",
+            "agg2": "20"
+        }
+    }, {
+        "leftKey": -1966381207,
+        "topKey": -980586483,
+        "values": {
+            "agg1": "133476",
+            "agg2": "27"
+        }
+    }, {
+        "leftKey": -1966381207,
+        "topKey": 80572487,
+        "values": {
+            "agg1": "151897",
+            "agg2": "31"
+        }
+    }, {
+        "leftKey": 1047393887,
+        "topKey": "grandtotal",
+        "values": {
+            "agg1": "686811",
+            "agg2": "136"
+        }
+    }, {
+        "leftKey": 1047393887,
+        "topKey": 1236044242,
+        "values": {
+            "agg1": "84132",
+            "agg2": "19"
+        }
+    }, {
+        "leftKey": 1047393887,
+        "topKey": -893447992,
+        "values": {
+            "agg1": "83985",
+            "agg2": "20"
+        }
+    }, {
+        "leftKey": 1047393887,
+        "topKey": 898914774,
+        "values": {
+            "agg1": "103467",
+            "agg2": "20"
+        }
+    }, {
+        "leftKey": 1047393887,
+        "topKey": -1126250421,
+        "values": {
+            "agg1": "109779",
+            "agg2": "22"
+        }
+    }, {
+        "leftKey": 1047393887,
+        "topKey": -980586483,
+        "values": {
+            "agg1": "150956",
+            "agg2": "24"
+        }
+    }, {
+        "leftKey": 1047393887,
+        "topKey": 80572487,
+        "values": {
+            "agg1": "154492",
+            "agg2": "31"
+        }
+    }, {
+        "leftKey": -1083659477,
+        "topKey": "grandtotal",
+        "values": {
+            "agg1": "891332",
+            "agg2": "166"
+        }
+    }, {
+        "leftKey": -1083659477,
+        "topKey": 1236044242,
+        "values": {
+            "agg1": "149024",
+            "agg2": "26"
+        }
+    }, {
+        "leftKey": -1083659477,
+        "topKey": -893447992,
+        "values": {
+            "agg1": "134422",
+            "agg2": "28"
+        }
+    }, {
+        "leftKey": -1083659477,
+        "topKey": 898914774,
+        "values": {
+            "agg1": "145321",
+            "agg2": "26"
+        }
+    }, {
+        "leftKey": -1083659477,
+        "topKey": -1126250421,
+        "values": {
+            "agg1": "157665",
+            "agg2": "29"
+        }
+    }, {
+        "leftKey": -1083659477,
+        "topKey": -980586483,
+        "values": {
+            "agg1": "137885",
+            "agg2": "29"
+        }
+    }, {
+        "leftKey": -1083659477,
+        "topKey": 80572487,
+        "values": {
+            "agg1": "167015",
+            "agg2": "28"
+        }
+    }, {
+        "leftKey": 1892024283,
+        "topKey": "grandtotal",
+        "values": {
+            "agg1": "735190",
+            "agg2": "143"
+        }
+    }, {
+        "leftKey": 1892024283,
+        "topKey": 1236044242,
+        "values": {
+            "agg1": "136051",
+            "agg2": "27"
+        }
+    }, {
+        "leftKey": 1892024283,
+        "topKey": -893447992,
+        "values": {
+            "agg1": "121968",
+            "agg2": "22"
+        }
+    }, {
+        "leftKey": 1892024283,
+        "topKey": 898914774,
+        "values": {
+            "agg1": "180271",
+            "agg2": "31"
+        }
+    }, {
+        "leftKey": 1892024283,
+        "topKey": -1126250421,
+        "values": {
+            "agg1": "116419",
+            "agg2": "24"
+        }
+    }, {
+        "leftKey": 1892024283,
+        "topKey": -980586483,
+        "values": {
+            "agg1": "79279",
+            "agg2": "18"
+        }
+    }, {
+        "leftKey": 1892024283,
+        "topKey": 80572487,
+        "values": {
+            "agg1": "101202",
+            "agg2": "21"
+        }
+    }, {
+        "leftKey": 152525816,
+        "topKey": "grandtotal",
+        "values": {
+            "agg1": "822173",
+            "agg2": "160"
+        }
+    }, {
+        "leftKey": 152525816,
+        "topKey": 1236044242,
+        "values": {
+            "agg1": "164356",
+            "agg2": "30"
+        }
+    }, {
+        "leftKey": 152525816,
+        "topKey": -893447992,
+        "values": {
+            "agg1": "130470",
+            "agg2": "27"
+        }
+    }, {
+        "leftKey": 152525816,
+        "topKey": 898914774,
+        "values": {
+            "agg1": "93481",
+            "agg2": "20"
+        }
+    }, {
+        "leftKey": 152525816,
+        "topKey": -1126250421,
+        "values": {
+            "agg1": "154815",
+            "agg2": "31"
+        }
+    }, {
+        "leftKey": 152525816,
+        "topKey": -980586483,
+        "values": {
+            "agg1": "146580",
+            "agg2": "28"
+        }
+    }, {
+        "leftKey": 152525816,
+        "topKey": 80572487,
+        "values": {
+            "agg1": "132471",
+            "agg2": "24"
+        }
+    }, {
+        "leftKey": -1123237942,
+        "topKey": "grandtotal",
+        "values": {
+            "agg1": "717694",
+            "agg2": "138"
+        }
+    }, {
+        "leftKey": -1123237942,
+        "topKey": 1236044242,
+        "values": {
+            "agg1": "107671",
+            "agg2": "20"
+        }
+    }, {
+        "leftKey": -1123237942,
+        "topKey": -893447992,
+        "values": {
+            "agg1": "118586",
+            "agg2": "27"
+        }
+    }, {
+        "leftKey": -1123237942,
+        "topKey": 898914774,
+        "values": {
+            "agg1": "114332",
+            "agg2": "20"
+        }
+    }, {
+        "leftKey": -1123237942,
+        "topKey": -1126250421,
+        "values": {
+            "agg1": "132937",
+            "agg2": "26"
+        }
+    }, {
+        "leftKey": -1123237942,
+        "topKey": -980586483,
+        "values": {
+            "agg1": "141978",
+            "agg2": "27"
+        }
+    }, {
+        "leftKey": -1123237942,
+        "topKey": 80572487,
+        "values": {
+            "agg1": "102190",
+            "agg2": "18"
+        }
+    }, {
+        "leftKey": 1690699786,
+        "topKey": "grandtotal",
+        "values": {
+            "agg1": "659523",
+            "agg2": "130"
+        }
+    }, {
+        "leftKey": 1690699786,
+        "topKey": 1236044242,
+        "values": {
+            "agg1": "104472",
+            "agg2": "21"
+        }
+    }, {
+        "leftKey": 1690699786,
+        "topKey": -893447992,
+        "values": {
+            "agg1": "147359",
+            "agg2": "26"
+        }
+    }, {
+        "leftKey": 1690699786,
+        "topKey": 898914774,
+        "values": {
+            "agg1": "81770",
+            "agg2": "20"
+        }
+    }, {
+        "leftKey": 1690699786,
+        "topKey": -1126250421,
+        "values": {
+            "agg1": "113961",
+            "agg2": "22"
+        }
+    }, {
+        "leftKey": 1690699786,
+        "topKey": -980586483,
+        "values": {
+            "agg1": "100043",
+            "agg2": "19"
+        }
+    }, {
+        "leftKey": 1690699786,
+        "topKey": 80572487,
+        "values": {
+            "agg1": "111918",
+            "agg2": "22"
+        }
+    }, {
+        "leftKey": -1574788680,
+        "topKey": "grandtotal",
+        "values": {
+            "agg1": "725514",
+            "agg2": "143"
+        }
+    }, {
+        "leftKey": -1574788680,
+        "topKey": 1236044242,
+        "values": {
+            "agg1": "124229",
+            "agg2": "23"
+        }
+    }, {
+        "leftKey": -1574788680,
+        "topKey": -893447992,
+        "values": {
+            "agg1": "117212",
+            "agg2": "23"
+        }
+    }, {
+        "leftKey": -1574788680,
+        "topKey": 898914774,
+        "values": {
+            "agg1": "125344",
+            "agg2": "23"
+        }
+    }, {
+        "leftKey": -1574788680,
+        "topKey": -1126250421,
+        "values": {
+            "agg1": "126342",
+            "agg2": "25"
+        }
+    }, {
+        "leftKey": -1574788680,
+        "topKey": -980586483,
+        "values": {
+            "agg1": "152730",
+            "agg2": "28"
+        }
+    }, {
+        "leftKey": -1574788680,
+        "topKey": 80572487,
+        "values": {
+            "agg1": "79657",
+            "agg2": "21"
+        }
+    }, {
+        "leftKey": 753831892,
+        "topKey": "grandtotal",
+        "values": {
+            "agg1": "759969",
+            "agg2": "147"
+        }
+    }, {
+        "leftKey": 753831892,
+        "topKey": 1236044242,
+        "values": {
+            "agg1": "169991",
+            "agg2": "30"
+        }
+    }, {
+        "leftKey": 753831892,
+        "topKey": -893447992,
+        "values": {
+            "agg1": "115569",
+            "agg2": "24"
+        }
+    }, {
+        "leftKey": 753831892,
+        "topKey": 898914774,
+        "values": {
+            "agg1": "128862",
+            "agg2": "28"
+        }
+    }, {
+        "leftKey": 753831892,
+        "topKey": -1126250421,
+        "values": {
+            "agg1": "139137",
+            "agg2": "23"
+        }
+    }, {
+        "leftKey": 753831892,
+        "topKey": -980586483,
+        "values": {
+            "agg1": "130874",
+            "agg2": "27"
+        }
+    }, {
+        "leftKey": 753831892,
+        "topKey": 80572487,
+        "values": {
+            "agg1": "75536",
+            "agg2": "15"
+        }
+    }, {
+        "leftKey": "grandtotal",
+        "topKey": 1236044242,
+        "values": {
+            "agg1": "1713162",
+            "agg2": "335"
+        }
+    }, {
+        "leftKey": "grandtotal",
+        "topKey": -893447992,
+        "values": {
+            "agg1": "1718502",
+            "agg2": "339"
+        }
+    }, {
+        "leftKey": "grandtotal",
+        "topKey": 898914774,
+        "values": {
+            "agg1": "1698521",
+            "agg2": "332"
+        }
+    }, {
+        "leftKey": "grandtotal",
+        "topKey": -1126250421,
+        "values": {
+            "agg1": "1693918",
+            "agg2": "332"
+        }
+    }, {
+        "leftKey": "grandtotal",
+        "topKey": -980586483,
+        "values": {
+            "agg1": "1715017",
+            "agg2": "333"
+        }
+    }, {
+        "leftKey": "grandtotal",
+        "topKey": 80572487,
+        "values": {
+            "agg1": "1672866",
+            "agg2": "329"
+        }
+    }]
+}
